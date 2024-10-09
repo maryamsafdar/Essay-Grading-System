@@ -4,3 +4,4 @@ langgraph
 python-dotenv
 groq
 langchain_core
+langchain_groq 
